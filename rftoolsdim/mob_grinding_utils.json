@@ -1,0 +1,32 @@
+[
+  {
+    "type": "block",
+    "key": "mob_grinding_utils:dark_oak_stone",
+    "rarity": "uncommon",
+    "create": 250,
+    "maintain": 100,
+    "ticks": 80,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "mob_grinding_utils:solid_xp_block",
+    "rarity": "legendary",
+    "create": 2500,
+    "maintain": 2500,
+    "ticks": 2500,
+    "worldgen": false,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "mob_grinding_utils:fluid_xp",
+    "rarity": "legendary",
+    "create": 2000,
+    "maintain": 2000,
+    "ticks": 2000,
+    "worldgen": false,
+    "dimlet": true
+  }
+]

@@ -1,0 +1,118 @@
+{
+  "modId": "botania",
+  "group": {
+    "name": "Botania Flowers",
+    "enabledByDefault": true,
+    "defaultPayment": {
+        "item": "minecraft:emerald"
+    },
+    "defaultCategory": "aexeon:botania_flowers"
+  },
+  "customCategories": {
+    "aexeon:botania_flowers": {
+       "name": "Botania Flowers",
+        "icon": {
+            "item": "botania:magenta_mystical_flower"
+        },
+        "sortIndex": 30
+    }
+  },
+  "customEntries": [
+    {
+        "output": {
+            "item": "botania:white_mystical_flower",
+            "count": 1
+        }
+    },
+    {
+        "output": {
+            "item": "botania:light_gray_mystical_flower",
+            "count": 1
+        }
+    },
+    {
+        "output": {
+            "item": "botania:gray_mystical_flower",
+            "count": 1
+        }
+    },
+    {
+        "output": {
+            "item": "botania:black_mystical_flower",
+            "count": 1
+        }
+    },
+    {
+        "output": {
+            "item": "botania:brown_mystical_flower",
+            "count": 1
+        }
+    },
+    {
+        "output": {
+            "item": "botania:red_mystical_flower",
+            "count": 1
+        }
+    },
+    {
+        "output": {
+            "item": "botania:orange_mystical_flower",
+            "count": 1
+        }
+    },
+    {
+        "output": {
+            "item": "botania:yellow_mystical_flower",
+            "count": 1
+        }
+    },
+    {
+        "output": {
+            "item": "botania:lime_mystical_flower",
+            "count": 1
+        }
+    },
+    {
+        "output": {
+            "item": "botania:green_mystical_flower",
+            "count": 1
+        }
+    },
+    {
+        "output": {
+            "item": "botania:cyan_mystical_flower",
+            "count": 1
+        }
+    },
+    {
+        "output": {
+            "item": "botania:light_blue_mystical_flower",
+            "count": 1
+        }
+    },
+    {
+        "output": {
+            "item": "botania:blue_mystical_flower",
+            "count": 1
+        }
+    },
+    {
+        "output": {
+            "item": "botania:purple_mystical_flower",
+            "count": 1
+        }
+    },
+    {
+        "output": {
+            "item": "botania:magenta_mystical_flower",
+            "count": 1
+        }
+    },
+    {
+        "output": {
+            "item": "botania:pink_mystical_flower",
+            "count": 1
+        }
+    }
+  ]
+}

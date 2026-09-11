@@ -1,0 +1,112 @@
+[
+  {
+    "type": "block",
+    "key": "blood_magic:dungeon_metal",
+    "rarity": "legendary",
+    "create": 3000,
+    "maintain": 3000,
+    "ticks": 3000,
+    "worldgen": false,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "blood_magic:dungeon_ore",
+    "rarity": "rare",
+    "create": 2000,
+    "maintain": 1000,
+    "ticks": 2000,
+    "worldgen": false,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "blood_magic:life_essence_fluid",
+    "rarity": "legendary",
+    "create": 2500,
+    "maintain": 2000,
+    "ticks": 2000,
+    "worldgen": false,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "blood_magic:dungeon_brick_assorted",
+    "rarity": "rare",
+    "create": 200,
+    "maintain": 100,
+    "ticks": 200,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "blood_magic:dungeon_regular_cracked_brick",
+    "rarity": "rare",
+    "create": 200,
+    "maintain": 100,
+    "ticks": 200,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "blood_magic:dungeon_cracked_brick1",
+    "rarity": "rare",
+    "create": 200,
+    "maintain": 100,
+    "ticks": 200,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "blood_magic:dungeon_stone",
+    "rarity": "rare",
+    "create": 200,
+    "maintain": 100,
+    "ticks": 200,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "blood_magic:dungeon_stone_corrosive",
+    "rarity": "rare",
+    "create": 200,
+    "maintain": 100,
+    "ticks": 200,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "blood_magic:dungeon_stone_destructive",
+    "rarity": "rare",
+    "create": 200,
+    "maintain": 100,
+    "ticks": 200,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "blood_magic:dungeon_stone_steadfast",
+    "rarity": "rare",
+    "create": 200,
+    "maintain": 100,
+    "ticks": 200,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "blood_magic:dungeon_stone_vengeful",
+    "rarity": "rare",
+    "create": 200,
+    "maintain": 100,
+    "ticks": 200,
+    "worldgen": true,
+    "dimlet": true
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "type": "block",
+    "key": "ars_nouveau:source_gem_block",
+    "rarity": "rare",
+    "create": 250,
+    "maintain": 100,
+    "ticks": 80,
+    "worldgen": false,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "starbunclemania:source_fluid",
+    "rarity": "legendary",
+    "create": 2500,
+    "maintain": 2000,
+    "ticks": 2000,
+    "worldgen": false,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:sourcestone",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "silentcompat:source_steel_block",
+    "rarity": "rare",
+    "create": 500,
+    "maintain": 500,
+    "ticks": 500,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:sourcestone_mosaic",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:sourcestone_basketweave",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:sourcestone_alternating",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:sourcestone_large_bricks",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+   {
+    "type": "block",
+    "key": "ars_nouveau:sourcestone_small_bricks",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:smooth_sourcestone",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:smooth_sourcestone_mosaic",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:smooth_sourcestone_basketweave",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:smooth_sourcestone_alternating",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:smooth_sourcestone_large_bricks",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+   {
+    "type": "block",
+    "key": "ars_nouveau:smooth_sourcestone_small_bricks",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:gilded_sourcestone",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:gilded_sourcestone_mosaic",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:gilded_sourcestone_basketweave",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:gilded_sourcestone_alternating",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:gilded_sourcestone_large_bricks",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+   {
+    "type": "block",
+    "key": "ars_nouveau:gilded_sourcestone_small_bricks",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:smooth_gilded_sourcestone",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:smooth_gilded_sourcestone_mosaic",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:smooth_gilded_sourcestone_basketweave",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:smooth_gilded_sourcestone_alternating",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_nouveau:smooth_gilded_sourcestone_large_bricks",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+   {
+    "type": "block",
+    "key": "ars_nouveau:smooth_gilded_sourcestone_small_bricks",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_additions:cracked_sourcestone",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_additions:cracked_polished_sourcestone",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_additions:cracked_sourcestone_large_bricks",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_additions:cracked_polished_sourcestone_large_bricks",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_additions:cracked_sourcestone_small_bricks",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "ars_additions:cracked_polished_sourcestone_small_bricks",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 80,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  }
+]

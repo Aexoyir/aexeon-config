@@ -1,0 +1,12 @@
+[
+  {
+    "type": "fluid",
+    "key": "sophisticatedcore:xp_still",
+    "rarity": "legendary",
+    "create": 2500,
+    "maintain": 2500,
+    "ticks": 2500,
+    "worldgen": false,
+    "dimlet": true
+  }
+]

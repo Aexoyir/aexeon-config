@@ -1,0 +1,242 @@
+[
+  {
+    "type": "fluid",
+    "key": "create:honey",
+    "rarity": "common",
+    "create": 20,
+    "maintain": 20,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "create:chocolate",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "createaddition:seed_oil",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "createaddition:bioethanol",
+    "rarity": "rare",
+    "create": 500,
+    "maintain": 500,
+    "ticks": 500,
+    "worldgen": false,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "create_enchantment_industry:ink",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "create_enchantment_industry:experience",
+    "rarity": "legendary",
+    "create": 2500,
+    "maintain": 2500,
+    "ticks": 2500,
+    "worldgen": false,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "create_enchantment_industry:hyper_experience",
+    "rarity": "legendary",
+    "create": 5000,
+    "maintain": 5000,
+    "ticks": 5000,
+    "worldgen": false,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "create_things_and_misc:slime",
+    "rarity": "common",
+    "create": 20,
+    "maintain": 20,
+    "ticks": 20,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "mechanical_botany:compost",
+    "rarity": "uncommon",
+    "create": 50,
+    "maintain": 50,
+    "ticks": 50,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "mechanical_botany:molten_compost",
+    "rarity": "rare",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "mechanical_botany:void_compost",
+    "rarity": "legendary",
+    "create": 200,
+    "maintain": 200,
+    "ticks": 200,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "create:experience_block",
+    "rarity": "legendary",
+    "create": 2500,
+    "maintain": 2500,
+    "ticks": 2500,
+    "worldgen": false,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "create:andesite_casing",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 50,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "create:copper_casing",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 50,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "create:brass_casing",
+    "rarity": "rare",
+    "create": 1000,
+    "maintain": 500,
+    "ticks": 1000,
+    "worldgen": false,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "create:railway_casing",
+    "rarity": "legendary",
+    "create": 2500,
+    "maintain": 2500,
+    "ticks": 2500,
+    "worldgen": false,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "create:cardboard_block",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 50,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "create:asurine",
+    "rarity": "rare",
+    "create": 200,
+    "maintain": 200,
+    "ticks": 200,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "create:crimsite",
+    "rarity": "rare",
+    "create": 200,
+    "maintain": 200,
+    "ticks": 200,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "create:veridium",
+    "rarity": "uncommon",
+    "create": 200,
+    "maintain": 200,
+    "ticks": 200,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "create:limestone",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 50,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "create:ochrum",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 50,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "create:scoria",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 50,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "create:scorchia",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 50,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  }
+]

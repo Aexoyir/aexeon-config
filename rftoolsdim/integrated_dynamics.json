@@ -1,0 +1,22 @@
+[
+  {
+    "type": "fluid",
+    "key": "integrateddynamics:menril_resin",
+    "rarity": "uncommon",
+    "create": 50,
+    "maintain": 50,
+    "ticks": 50,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "integrateddynamics:liquid_chorus",
+    "rarity": "rare",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  }
+]

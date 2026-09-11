@@ -1,0 +1,22 @@
+[
+  {
+    "type": "block",
+    "key": "draconicevolution:draconium_block",
+    "rarity": "rare",
+    "create": 3000,
+    "maintain": 1500,
+    "ticks": 2000,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "draconicevolution:infused_obsidian",
+    "rarity": "legendary",
+    "create": 1500,
+    "maintain": 1000,
+    "ticks": 1000,
+    "worldgen": true,
+    "dimlet": true
+  }
+]

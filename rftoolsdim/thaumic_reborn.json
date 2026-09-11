@@ -1,0 +1,52 @@
+[
+  {
+    "type": "block",
+    "key": "thaumic_reborn:flesh_block",
+    "rarity": "common",
+    "create": 50,
+    "maintain": 20,
+    "ticks": 30,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thaumic_reborn:tallow_block",
+    "rarity": "common",
+    "create": 50,
+    "maintain": 20,
+    "ticks": 30,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thaumic_reborn:arcane_stone",
+    "rarity": "uncommon",
+    "create": 150,
+    "maintain": 200,
+    "ticks": 150,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thaumic_reborn:arcane_stone_bricks",
+    "rarity": "common",
+    "create": 150,
+    "maintain": 200,
+    "ticks": 150,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "block",
+    "key": "thaumic_reborn:thaumium_block",
+    "rarity": "legendary",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1000,
+    "worldgen": true,
+    "dimlet": true
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "type": "fluid",
+    "key": "industrialforegoing:meat",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "industrialforegoing:latex",
+    "rarity": "uncommon",
+    "create": 100,
+    "maintain": 100,
+    "ticks": 100,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "industrialforegoing:sewage",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "industrialforegoing:essence",
+    "rarity": "rare",
+    "create": 1000,
+    "maintain": 1000,
+    "ticks": 1000,
+    "worldgen": false,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "industrialforegoing:sludge",
+    "rarity": "common",
+    "create": 10,
+    "maintain": 10,
+    "ticks": 10,
+    "worldgen": true,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "industrialforegoing:biofuel",
+    "rarity": "legendary",
+    "create": 5000,
+    "maintain": 2000,
+    "ticks": 5000,
+    "worldgen": false,
+    "dimlet": true
+  },
+  {
+    "type": "fluid",
+    "key": "industrialforegoing:ether_gas",
+    "rarity": "legendary",
+    "create": 2000,
+    "maintain": 2000,
+    "ticks": 2000,
+    "worldgen": false,
+    "dimlet": true
+  }
+]
