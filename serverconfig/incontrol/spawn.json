@@ -1,0 +1,16 @@
+[
+  {
+    "mob": ["java_mobgirls:axolotl_girl", "java_mobgirls:pig_girl", "java_mobgirls:zombie_girl", "java_mobgirls:husk_girl", "java_mobgirls:drowned_girl", "java_mobgirls:ender_woman", "java_mobgirls:creeper_girl", "java_mobgirls:pillager_girl"],
+	"dimension": ["minecraft:overworld"],
+    "result": "default"
+  },
+  {
+    "mob": ["java_mobgirls:ender_woman"],
+	"dimension": ["minecraft:nether","minecraft:the_end"],
+    "result": "default"
+  },
+ {
+    "mob": ["java_mobgirls:axolotl_girl", "java_mobgirls:pig_girl", "java_mobgirls:zombie_girl", "java_mobgirls:husk_girl", "java_mobgirls:drowned_girl", "java_mobgirls:creeper_girl", "java_mobgirls:pillager_girl","java_mobgirls:ender_woman"],
+    "result": "deny"
+  }
+]
