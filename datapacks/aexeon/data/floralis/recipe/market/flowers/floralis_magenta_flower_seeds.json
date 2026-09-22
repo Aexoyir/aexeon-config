@@ -1,0 +1,8 @@
+{
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:seeds",
+  "preset":"floralis:seeds",
+  "result": {
+      "item": "floralis:magenta_flower_seeds"
+  }
+}

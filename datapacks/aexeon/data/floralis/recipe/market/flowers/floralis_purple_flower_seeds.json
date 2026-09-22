@@ -1,0 +1,8 @@
+{
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:seeds",
+  "preset":"floralis:seeds",
+  "result": {
+      "item": "floralis:purple_flower_seeds"
+  }
+}

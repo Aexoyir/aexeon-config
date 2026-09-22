@@ -1,0 +1,8 @@
+{
+  "type": "farmingforblockheads:market",
+  "category": "farmingforblockheads:other",
+  "preset":"floralis:cactus",
+  "result": {
+      "item": "floralis:red_cactus"
+  }
+}
