@@ -1,1 +1,6 @@
-
+{
+  "pack": {
+    "description": "Server customizations",
+    "pack_format": 48
+  }
+}
